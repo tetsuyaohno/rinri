@@ -1,2 +1,4 @@
-# u-rinri
-倫理法人会向けアプリのコード
+#rinri
+宇和島市倫理会
+
+Code for activity
